@@ -1,3 +1,3 @@
 ## Pallete. 
 
-A simple machine learning algorithm that detects the palletes in a given image. This project is under bulit.
+An intuitive machine learning algorithm designed to identify and extract color palettes from any images. This project is under bulit.
