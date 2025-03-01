@@ -37,4 +37,4 @@ Contributions are welcome! If you find a bug or have an enhancement idea, feel f
 
 ### License 
 
-Palette have a MIT license.
+Palette have a MIT license. Click [here](https://github.com/sreedeepEK/palette/blob/main/LICENSE) to know more.
