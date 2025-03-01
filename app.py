@@ -64,12 +64,15 @@ Extract color palette from any image instantly. </b><br><br>
 """
 
 
+examples =  ["./data/A1.jpg","./data/gladiator.jpg", "./data/gladiator2.jpg"]
+
 # Gradio Interface
 demo = gr.Interface(
     fn=process_image,
     inputs=gr.Image(type="filepath", height=400, width=700),
     outputs=gr.Image(type="filepath", height=400, width=700),  # Return image file path
-    title="palette",
+    title="Palette", 
+    examples = examples,
     description= description_text
 )
 
