@@ -1,6 +1,6 @@
 ## Palette
 
-A simple machine learning-based tool that extracts the dominant color palette from any uploaded image. Uses K-Means clustering to detect the most prominent colors and displays them along with their HEX codes.
+A simple machine learning-based tool that extracts the dominant color palette from any uploaded image. Uses K-Means clustering to detect the most prominent colors and displays them along with their HEX codes. See Pallete live in [HuggingFace spaces](https://huggingface.co/spaces/sreedeepEK/Palette).
 
 https://github.com/user-attachments/assets/1abfeb8d-e8ad-4a26-b50b-7a0811b1295a
 
